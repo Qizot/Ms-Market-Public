@@ -1,0 +1,3 @@
+enum Mode {
+  create, edit
+}
